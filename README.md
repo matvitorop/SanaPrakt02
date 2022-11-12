@@ -11,3 +11,4 @@
 - [x] GitHub 
 - [ ] GitLab
 - [ ] GitBucket
+## Виконав: Тороп Матвій
